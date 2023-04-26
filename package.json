@@ -43,9 +43,9 @@
     "author": "coffee-coding-funtimes",
     "license": "MIT",
     "devDependencies": {
-      "@types/chai": "^4.2.18",
+      "@types/chai": "^4.3.4",
       "@types/mocha": "^8.2.2",
-      "chai": "^4.3.4",
+      "chai": "^4.3.7",
       "eslint": "^8.39.0",
       "lint-staged": "^13.2.1",
       "mocha": "^10.2.0",
