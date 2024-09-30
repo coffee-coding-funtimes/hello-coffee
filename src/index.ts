@@ -3,3 +3,5 @@
  * @param name The name to greet
  */
 export const makeHello = (name?: string): string => `Hello ${name || 'world'}, have a coffee! ☕️`;
+
+//coffee-coding-funtimes
